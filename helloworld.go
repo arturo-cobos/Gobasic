@@ -5,9 +5,10 @@ package main
 
 
 import "fmt"
+//import "net", Si se importa una libreria que no se usa nos da error.
 //fumt - nombre copartirto para format..
 
 //main declaración función main
-func main() {
+func main(){
     fmt.Println("Hello, playground")
 }
