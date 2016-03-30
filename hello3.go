@@ -19,6 +19,7 @@ func main() {
     var e int
     fmt.Println(e)
     
+    //declaración de una cadena con otro tipo de sintáxis.
     f:= "short"
     fmt.Println(f)
     
